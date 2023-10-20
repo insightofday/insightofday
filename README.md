@@ -3,6 +3,7 @@
   <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=insightofday&date_format=%5BY.%5Dn.j&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
+<hr>
 <div align = center>
   <p>
          <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsightofday&count_bg=%231C1A1D&title_bg=%23A79A9A&icon=googlekeep.svg&icon_color=%23322263&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false"/></a>
