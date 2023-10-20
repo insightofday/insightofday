@@ -1,7 +1,7 @@
 <div align = center>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Backend+Developer" alt="Typing SVG" /></a>
   <br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=insightofday&theme=vue&date_format=%5BY.%5Dn.j&card_width=100&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=insightofday&theme=vue&date_format=%5BY.%5Dn.j&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 <hr>
 <div align = center>
