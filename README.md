@@ -1,12 +1,15 @@
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsightofday&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=insightofday&date_format=%5BY.%5Dn.j&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
-<p align = center>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
+<div align = center>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Backend+Developer" alt="Typing SVG" /></a>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsightofday&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=insightofday&date_format=%5BY.%5Dn.j&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <p >
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  </p>
+</div>
 <!--
 **insightofday/insightofday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
