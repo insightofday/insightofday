@@ -1,9 +1,11 @@
+<!--제목 및 연속 잔디 갯수-->
 <div align = center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=2068F7&center=true&vCenter=true&random=false&width=435&lines=Junior+Developer" alt="Typing SVG" /></a>
   <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=insightofday&theme=vue&date_format=%5BY.%5Dn.j&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
+<!--CurrentProjects-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=5998F7&random=true&width=435&lines=current+projects" alt="Typing SVG" /></a>
   <p>
     <h3 href="https://github.com/insightofday/worksB">협업툴 프로젝트(23.07~23.09)</h3>
@@ -11,7 +13,22 @@
   <p>
      <h3 href="https://github.com/insightofday/lemonmarket">중고거래 플랫폼 프로젝트(23.06.09~23.06.22)</h3> 
   </p>
-</div>
+  
+<!--RecordsOfStudy-->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A3DBF7&random=false&width=435&lines=records+of+study" alt="Typing SVG" /></a>
+  <p>
+    <h3 href="https://github.com/insightofday/TIL">개인 공부 기록</h3>
+  </p>
+  <p>
+    <h3 href="[https://github.com/insightofday/TIL](https://github.com/insightofday/JavaStandard)">자바의 정석 필기 및 뉴렉처 강의 기록</h3>
+  </p>
+
+  <!--Books I read-->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B9F3F7&random=false&width=435&lines=books+I+read" alt="Typing SVG" /></a>
+<p>
+  <h3>스프링입문을 위한 자바 객체지향의 원리와 이해(위키북스/김종민)</h3>
+</p>
+<!--방문자수 및 기술스택-->
 <hr>
 <div align = center>
   <p>
@@ -22,6 +39,8 @@
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   </p>
+</div>
+  
 <!--
 **insightofday/insightofday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
