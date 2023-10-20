@@ -13,6 +13,7 @@
   <p>
      <h3 href="https://github.com/insightofday/lemonmarket">중고거래 플랫폼 프로젝트(23.06.09~23.06.22)</h3> 
   </p>
+  <br>
   
 <!--RecordsOfStudy-->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A3DBF7&random=false&width=435&lines=records+of+study" alt="Typing SVG" /></a>
@@ -22,12 +23,15 @@
   <p>
     <h3 href="[https://github.com/insightofday/TIL](https://github.com/insightofday/JavaStandard)">자바의 정석 필기 및 뉴렉처 강의 기록</h3>
   </p>
+  <br>
 
   <!--Books I read-->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B9F3F7&random=false&width=435&lines=books+I+read" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9EB9F7&random=false&width=435&lines=books+I+read" alt="Typing SVG" /></a>
 <p>
   <h3>스프링입문을 위한 자바 객체지향의 원리와 이해(위키북스/김종민)</h3>
 </p>
+<br>
+
 <!--방문자수 및 기술스택-->
 <hr>
 <div align = center>
