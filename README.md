@@ -21,7 +21,7 @@
     <h3 href="https://github.com/insightofday/TIL">개인 공부 기록</h3>
   </p>
   <p>
-    <h3>[자바의 정석 필기 및 뉴렉처 강의 기록](https://github.com/insightofday/JavaStandard)</h3>
+    ### [자바의 정석 필기 및 뉴렉처 강의 기록](https://github.com/insightofday/JavaStandard)
   </p>
   <br>
 
