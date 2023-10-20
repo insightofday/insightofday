@@ -4,7 +4,7 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=insightofday&theme=vue&date_format=%5BY.%5Dn.j&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=current+projects" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=5998F7&random=true&width=435&lines=current+projects" alt="Typing SVG" /></a>
   <p>
     <h3 href="https://github.com/insightofday/worksB">협업툴 프로젝트(23.07~23.09)</h3>
   </p>
