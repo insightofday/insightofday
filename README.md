@@ -1,7 +1,7 @@
 <div align = center>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Backend+Developer" alt="Typing SVG" /></a>
 </div>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsightofday&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsightofday&count_bg=%231C1A1D&title_bg=%23A79A9A&icon=googlekeep.svg&icon_color=%23322263&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false"/></a>
   <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=insightofday&date_format=%5BY.%5Dn.j&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 <div align = center>
