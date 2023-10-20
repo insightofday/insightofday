@@ -3,6 +3,15 @@
   <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=insightofday&theme=vue&date_format=%5BY.%5Dn.j&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
+
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=current+projects" alt="Typing SVG" /></a>
+  <p>
+    <h3>협업툴 프로젝트(23.07~23.09)</h3> https://github.com/insightofday/worksB
+  </p>
+  <p>
+     <h3>중고거래 플랫폼 프로젝트(23.06.09~23.06.22)</h3> https://github.com/insightofday/lemonmarket
+  </p>
+</div>
 <hr>
 <div align = center>
   <p>
@@ -13,14 +22,6 @@
     <img src="https://img.shields.io/badge/oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   </p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=current+projects" alt="Typing SVG" /></a>
-  <p>
-    ### 협업툴 프로젝트(23.07~23.09) https://github.com/insightofday/worksB
-  </p>
-  <p>
-    ### 중고거래 플랫폼 프로젝트(23.06.09~23.06.22) https://github.com/insightofday/lemonmarket
-  </p>
-</div>
 <!--
 **insightofday/insightofday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
