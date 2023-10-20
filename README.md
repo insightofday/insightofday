@@ -8,10 +8,10 @@
 <!--CurrentProjects-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=5998F7&random=true&width=435&lines=current+projects" alt="Typing SVG" /></a>
   <p>
-    <h3><a href="https://github.com/insightofday/worksB">협업툴 프로젝트(23.07~23.09)></a></h3>
+    <h3><a href="https://github.com/insightofday/worksB">협업툴 프로젝트(23.07~23.09)</a></h3>
   </p>
   <p>
-     <h3><a href="https://github.com/insightofday/lemonmarket">중고거래 플랫폼 프로젝트(23.06.09~23.06.22)></a></h3> 
+     <h3><a href="https://github.com/insightofday/lemonmarket">중고거래 플랫폼 프로젝트(23.06.09~23.06.22)</a></h3> 
   </p>
   <br>
   
