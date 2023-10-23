@@ -2,7 +2,7 @@
 <div align = center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=2068F7&center=true&vCenter=true&random=false&width=435&lines=Junior+Developer" alt="Typing SVG" /></a>
   <br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=insighofday&theme=vue&date_format=%5BY.%5Dn.j&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=insighofday"&theme=vue&date_format=%5BY.%5Dn.j&card_width=300&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
 
 <!--CurrentProjects-->
