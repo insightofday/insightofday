@@ -18,7 +18,7 @@
 <!--RecordsOfStudy-->
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A3DBF7&random=false&width=435&lines=records+of+study" alt="Typing SVG" /></a>
   <p>
-    <h3><a href="https://github.com/insightofday/TIL">매일 공부 기록</a></h3>
+    <h3><a href="https://github.com/insightofday/TIL">매일 공부 기록(TIL)</a></h3>
   </p>
   <p>
      <h3><a href="https://github.com/insightofday/JavaStandard">자바의 정석 필기 및 뉴렉처 강의 기록</a></h3>
