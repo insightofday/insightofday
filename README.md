@@ -24,7 +24,7 @@
      <h3><a href="https://github.com/insightofday/JavaStandard">자바의 정석 필기 및 뉴렉처 강의 기록</a></h3>
   </p>
   <p>
-     <h3><a href="https://github.com/insightofday/PilatesProgram">자바 연습용 콘솔 프로젝트(필라테스 지점.회원관리 프로그램)</a></h3>
+     <h3><a href="https://github.com/insightofday/PilatesProgram">자바 연습용 콘솔 프로젝트(필라테스 지점 및 회원관리 프로그램)</a></h3>
   </p>
   <br>
 
