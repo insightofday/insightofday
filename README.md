@@ -39,7 +39,7 @@
 <br>
 
 <!--방문자수 및 기술스택-->
-<hr>
+<!--<hr>
 <div align = center>
   <p>
          <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finsightofday&count_bg=%231C1A1D&title_bg=%23A79A9A&icon=googlekeep.svg&icon_color=%23322263&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false"/></a>
@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   </p>
   -->
-</div>
+</div>-->
 
 
 <!--waka-time:사용시간알려주는 api나중에깔아보기-->
